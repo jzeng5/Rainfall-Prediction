@@ -5,7 +5,10 @@ This project predicts whether there is rainfall at a location, based on (process
 Author : Jessica Zeng, Ming Huang.
 
 Overall Ensemble
-Random Forest 0.2
-AdaBoost With Tree 0.2
-Gradient Boosting 0.6
+Random Forest 0.2;
+AdaBoost With Tree 0.2;
+Gradient Boosting 0.6;
+
+Performance 0.78371 ;
+Rank 6th.
 
